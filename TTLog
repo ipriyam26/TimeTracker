@@ -1,0 +1,3 @@
+#! /bin/bash
+
+/Users/ipriyam26/Programing/TimeTracker/venv/bin/python3 /Users/ipriyam26/Programing/TimeTracker/main.py $1 $2
